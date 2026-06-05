@@ -1,0 +1,6 @@
+{
+  "name": "Boutique Mobile",
+  "description": "Un site de vente en ligne mobile moderne avec catalogue interactif et espace client personnalisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
